@@ -1,0 +1,32 @@
+#menu{
+    width: 100vw;
+    height: 10vh;
+    background-image: url(rain-316580_1280.jpg);
+    background-position: center;
+    display: flex;
+
+     justify-content: center;
+     align-self: center ;
+     
+
+    body,html{
+    margin: 0;
+    }
+
+}
+    #name{
+        font-size: 200%;
+        color: rgb(255, 255, 255);
+        background-color: green;
+        }
+        #menu>a{
+       text-decoration: none;
+       color: mediumaquamarine;
+       font-size: 175%;
+        }
+        #menu>a:hover{
+            font-size: 200%;
+            color:white;
+            font-weight: bold;
+            }
+
